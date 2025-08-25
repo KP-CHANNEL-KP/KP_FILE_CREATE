@@ -1,9 +1,9 @@
 # Important note : Among all my projects, this one has taken the most time and effort to complete. I can confidently say that very few — if any — would invest this much dedication into creating a project. It has been crafted with precision, so if you choose to use it in your own way, please make sure to give proper credit.
 # Important note2 : This project was created on February 23, 2024. While everything still works properly, the method may need to be updated to match Facebook’s current algorithm and security standards. Apart from the method, all other parts function correctly. The existing method can still work, but it requires a strong access token for effective use.
 """
-Project: Facebook Ida Dumper
-Author: Masudur Rahman Sifat (Mr.SxR)
-Date Published: 20 May 2025 | Last Modified: 23 Feb 2024
+Project: KP FILE CLONE
+Author: MYANMAR (KP)
+Date Published: 25 AUNG 2025 
 """
 #▬▭▬▭▬▭▬▭[ IMPORT MODULE ]▬▭▬▭▬▭▬▭#
 import os,re,random,uuid,time,json,sys
@@ -20,7 +20,7 @@ colors = ["\033[0;31m", "\033[1;31m", "\033[0;32m", "\033[1;32m","\033[0;92m","\
 #▬▭▬▭▬▭▬▭[ LINE ]▬▭▬▭▬▭▬▭#
 sxrline = f"{f}•━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━•"
 #▬▭▬▭▬▭▬▭[ WP GROUP ]▬▭▬▭▬▭▬▭#
-os.system("xdg-open https://chat.whatsapp.com/F2RbcimhWQF1v5nnPZHHr2")
+os.system("xdg-open https://t.me/KP_CHANNEL_KP")
 #▬▭▬▭▬▭▬▭[ CHECK SDCARD ]▬▭▬▭▬▭▬▭#
 try:open("/sdcard/.txt","a").write("")
 except PermissionError:os.system("clear");print(f"{b}Please give sdcard permission to save Accounts{a}");os.system("termux-setup-storage")
@@ -84,9 +84,9 @@ def clr_logo(stts=True):
     print(f"""{b}
        KK.   KK.    PPPPPPP
        KK.  KK.     PP.    PP
-       KK KK       PP.    PP
-       KKKK        PPPPPPP
-       KK KK       PP
+       KK KK        PP.    PP
+       KKKK         PPPPPPP
+       KK KK        PP
        KK.  KK.     PP
        KK.   KK.    PP  {j}FILE CREATE
 {sxrline}
