@@ -2,7 +2,7 @@
 ```Bash
 cd $HOME
 rm -rf KP_FILE_CREATE
-git clone --depth=1 [https://github.com/KP-CHANNEL-KP/KP_FILE_CREATE.git]
+git clone --depth=1 https://github.com/KP-CHANNEL-KP/KP_FILE_CREATE.git
 cd KP_FILE_CREATE
 git pull
 python KP_FILE_CREATE.py
