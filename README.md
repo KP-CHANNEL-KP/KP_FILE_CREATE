@@ -7,6 +7,14 @@ cd KP_FILE_CREATE
 git pull
 python KP_FILE_CREATE.py
 ```
+@
+```
+sudo apt install python3-pip -y
+pip3 install requests bs4
+
+chmod +x kp_file_clone_kali.py
+python3 kp_file_clone_kali.py
+```
 # Errors
 **● Tool Errors:**  
 If any errors or problems occur while running the tool, you can contact the admin and moderators.
